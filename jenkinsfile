@@ -1,0 +1,11 @@
+node{
+	stage('SampleProject1'){
+		echo 'Running SampleProject1'
+	}
+	stage('SampleProject2'){
+		echo 'Running SampleProject2'
+	}
+	stage('SampleProject3'){
+		echo 'Running sampleProject3'
+	}
+}
